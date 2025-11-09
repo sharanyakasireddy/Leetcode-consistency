@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
