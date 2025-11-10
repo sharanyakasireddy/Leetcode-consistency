@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
