@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0001-two-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
