@@ -7,4 +7,4 @@ class Solution:
                 i += 2        # 2-bit character
             else:
                 i += 1        # 1-bit character
-        return i == n - 1   
+        return i == n - 1  
