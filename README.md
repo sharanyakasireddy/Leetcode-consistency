@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
