@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0001-two-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
