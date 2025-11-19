@@ -7,4 +7,4 @@ class Solution:
             if arr[i] == arr[i + quarter]:
                 return arr[i]
 
-        return arr[0]   # fallback (but loop always returns before this)
+        return arr[0]  # fallback (but loop always returns before this)
