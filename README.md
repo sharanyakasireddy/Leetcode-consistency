@@ -155,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
