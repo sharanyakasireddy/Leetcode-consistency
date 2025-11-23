@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0203-remove-linked-list-elements) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
