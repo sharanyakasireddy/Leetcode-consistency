@@ -79,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 ## Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
+| [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Sorting
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0203-remove-linked-list-elements) |
 ## Database
 |  |
