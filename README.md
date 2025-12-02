@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
