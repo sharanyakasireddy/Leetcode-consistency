@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
