@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0303-range-sum-query-immutable) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0303-range-sum-query-immutable) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
