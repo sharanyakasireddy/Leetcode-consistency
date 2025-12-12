@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3146-permutation-difference-between-two-strings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2409-count-days-spent-together](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2409-count-days-spent-together) |
+| [3146-permutation-difference-between-two-strings](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
