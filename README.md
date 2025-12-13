@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1484-group-sold-products-by-the-date](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1667-fix-names-in-a-table) |
 ## Bit Manipulation
