@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0145-binary-tree-postorder-traversal) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
@@ -93,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1925-count-square-sum-triples) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
