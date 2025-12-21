@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2717-semi-ordered-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2717-semi-ordered-permutation) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3146-permutation-difference-between-two-strings) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Linked List
 |  |
