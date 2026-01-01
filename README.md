@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1925-count-square-sum-triples) |
