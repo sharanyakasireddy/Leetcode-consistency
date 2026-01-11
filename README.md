@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sliding Window
 |  |
