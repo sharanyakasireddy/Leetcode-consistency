@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0066-plus-one) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1925-count-square-sum-triples) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Enumeration
 |  |
