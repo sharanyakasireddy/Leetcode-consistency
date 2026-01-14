@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0303-range-sum-query-immutable) |
+| [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
+| [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
