@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2347-best-poker-hand) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2717-semi-ordered-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2717-semi-ordered-permutation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
