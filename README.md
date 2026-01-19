@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0066-plus-one) |
+| [0728-self-dividing-numbers](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
