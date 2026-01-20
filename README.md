@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2717-semi-ordered-permutation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3074-apple-redistribution-into-boxes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sliding Window
 |  |
 | ------- |
