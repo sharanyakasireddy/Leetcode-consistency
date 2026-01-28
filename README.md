@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1266-minimum-time-visiting-all-points) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1200-minimum-absolute-difference) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2943-maximize-area-of-square-hole-in-grid) |
