@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0049-group-anagrams) |
 | [1656-design-an-ordered-stream](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1656-design-an-ordered-stream) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -182,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0049-group-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2409-count-days-spent-together](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/2409-count-days-spent-together) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/0049-group-anagrams) |
 | [1200-minimum-absolute-difference](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1200-minimum-absolute-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sharanyakasireddy/Leetcode-consistency/tree/master/1741-sort-array-by-increasing-frequency) |
